@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.rockmotionvideos.coolcaps",
+        "sha256_cert_fingerprints": ["DE:07:5F:3B:E0:6D:AA:DA:F8:64:10:0B:B9:FD:E9:9A:1E:04:06:0C:E3:BE:B8:52:3D:13:FF:D2:F8:2B:56:B4"]
+      }
+    }]
